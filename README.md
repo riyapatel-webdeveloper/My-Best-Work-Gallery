@@ -1,5 +1,5 @@
 # My-Best-Work-Gallery
-High-end WordPress development for a global jewelry brand, focusing on luxury UI, performance, and catalog management.
+A curated showcase of high-end WordPress e-commerce projects for the luxury jewelry and diamond industry. Focused on UI/UX, mobile performance, and conversion.
 
 **Role**: Frontend Specialist | Tech Stack: WordPress, WooCommerce, Elementor
 
