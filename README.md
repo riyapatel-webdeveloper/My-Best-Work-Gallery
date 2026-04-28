@@ -1,15 +1,18 @@
 # My-Best-Work-Gallery
-A curated showcase of high-end WordPress e-commerce projects for the luxury jewelry and diamond industry. Focused on UI/UX, mobile performance, and conversion.
+💎 Luxury WordPress E-commerce Gallery
+4+ Years of Experience in Frontend Development & UI/UX
+Specialized in building high-end WordPress websites for the global diamond and jewelry industry.
 
-**Role**: Frontend Specialist | Tech Stack: WordPress, WooCommerce, Elementor
+🚀 Core Expertise:
+**WordPress & WooCommerce**: Expert at setting up complex jewelry catalogs and variation logic.
+Elementor Pro: Designing "Luxury-first" interfaces with high-end visual appeal.
+Performance: Optimizing image-heavy sites for fast mobile loading.
 
-Developed a premium online shopping experience for Mirvan Jewels and Diamast.
+🏆 Featured Projects:
+Mirvan Jewels: A premium e-commerce experience for high-end diamonds.
+Diamast: Robust storefront management for a manufacturing export firm.
 
-**Key Contributions:**
-- Luxury UI Design: Crafted a minimalist, high-contrast interface to highlight diamond clarity and gold textures.
-- Product Variation Logic: Configured complex WooCommerce attributes for metal purity (18k/22k) and diamond carats.
-- Mobile Optimization: Ensured a seamless "touch-first" shopping experience for high-net-worth mobile users.
-- Trust Integration: Implemented secure payment gateways and diamond certification badges.
+@wordpress
 
 <img width="1485" height="1485" alt="Diamst" src="https://github.com/user-attachments/assets/a062ab3b-528f-4073-817e-7b328dee9145" />
 <img width="1485" height="1485" alt="Mirvan" src="https://github.com/user-attachments/assets/032afd73-176f-47ab-a7b4-5aae16aab68c" />
